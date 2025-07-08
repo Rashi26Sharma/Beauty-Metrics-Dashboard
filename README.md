@@ -71,4 +71,4 @@ To offer a user-friendly, stylish dashboard that:
 * 📦 **Inventory Planning**: Use trend data to reduce overstock and understock situations
 
 ### 6. Preview
-![Snapshot]()
+![Snapshot](https://github.com/Rashi26Sharma/Beauty-Metrics-Dashboard/blob/main/Snapshot%20of%20the%20Beauty%20Metrics%20Dashboard.png)
